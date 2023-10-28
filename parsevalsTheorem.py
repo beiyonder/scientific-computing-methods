@@ -3,7 +3,7 @@ from scipy.fft import fft
 from scipy.integrate import quad
 
 """
-Calculate the integral ∫e^−(2*x^4)dx from -L to L
+Calculate the integral ∫e^-(2*x^4)dx from -L to L
  numerically using Parseval's Theorem. Take L = 4π
  and the grid size to be 256.
 """
